@@ -1,0 +1,8 @@
+{
+  "name": "MadhiniSolutions",
+  "description": "Official website for MadhiniSolutions — building digital products, experiences, and learning platforms like B10R Learning and B10R MS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
